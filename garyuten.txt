@@ -1,2 +1,4 @@
 福岡のIT系勉強会に興味持ってる人は、 @akase244 をフォローしておけばいいですよ。
 https://twitter.com/akase244
+
+branch-test で書いてみます。
